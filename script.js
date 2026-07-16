@@ -89,217 +89,217 @@ const produtos = [
     marca: "Mawwal Arabia",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/najma.png"
+    imagem: "imagens/Najma.png"
 },
 {
     nome: "Surprise",
     marca: "MegaCollection",
     categoria: "Árabe Feminino",
     ml: "90 ml",
-    imagem: "imagens/surprise.png"
+    imagem: "imagens/Surprise.png"
 },
 {
     nome: "Dubai's Chocolate Pistachio",
     marca: "Mawwal Arabia",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/dubais-chocolate-pistachio.jpg"
+    imagem: "imagens/Dubais-Chocolate-Pistachio.jpg"
 },
 {
     nome: "Raneen",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "80 ml",
-    imagem: "imagens/raneen.jpg"
+    imagem: "imagens/Raneen.jpg"
 },
 {
     nome: "Sabah Al Ward Valentine",
     marca: "Al Wataniah",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/sabah-al-ward-valentine.jpg"
+    imagem: "imagens/Sabah-Al-Ward-Valentine.jpg"
 },
 {
     nome: "Fakhar Rose",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/fakharrose.webp"
+    imagem: "imagens/Fakharrose.webp"
 },
 {
     nome: "Alora",
     marca: "L'Affair",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/alora.jpg"
+    imagem: "imagens/Alora.jpg"
 },
 {
     nome: "Leoni Intense",
     marca: "Maison Alhambra",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/leoni-intense.jpg"
+    imagem: "imagens/Leoni-Intense.jpg"
 },
 {
     nome: "Leoni",
     marca: "Maison Alhambra",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/leoni.jpeg"
+    imagem: "imagens/Leoni.jpeg"
 },
 {
     nome: "Queen Of Arabia",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/queen-of-arabia.webp"
+    imagem: "imagens/Queen-Of-Arabia.webp"
 },
 {
     nome: "Afeef",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/afeef.webp"
+    imagem: "imagens/Afeef.webp"
 },
 {
     nome: "Como Moiselle",
     marca: "Maison Alhambra",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/como-moiselle.webp"
+    imagem: "imagens/Como-Moiselle.webp"
 },
 {
     nome: "Her Confession",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/her-confession.png"
+    imagem: "imagens/Her-Confession.png"
 },
 {
     nome: "Tharwah Gold",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/tharwah-gold.jpg"
+    imagem: "imagens/Tharwah-Gold.jpg"
 },
 {
     nome: "Victoria",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/victoria.webp"
+    imagem: "imagens/Victoria.webp"
 },
 {
     nome: "Basir",
     marca: "Mawwal Arabia",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/basir.png"
+    imagem: "imagens/Basir.png"
 },
 {
     nome: "Veneno Bianco",
     marca: "Fragrance World",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/veneno-bianco.jpg"
+    imagem: "imagens/Veneno-Bianco.jpg"
 },
 {
     nome: "Sabah Al Ward Garden",
     marca: "Al Wataniah",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/sabah-al-ward-garden.jpg"
+    imagem: "imagens/Sabah-Al-Ward-Garden.jpg"
 },
 {
     nome: "Sabah Al Ward Delilah",
     marca: "Al Wataniah",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/sabah-al-ward-delilah.webp"
+    imagem: "imagens/Sabah-Al-Ward-Delilah.webp"
 },
 {
     nome: "Sabah Al Ward Sugar",
     marca: "Al Wataniah",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/sabah-al-ward-sugar.jpg"
+    imagem: "imagens/Sabah-Al-Ward-Sugar.jpg"
 },
 {
     nome: "Sabah Al Ward",
     marca: "Al Wataniah",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/sabah-al-ward.png"
+    imagem: "imagens/Sabah-Al-Ward.png"
 },
 {
     nome: "Yara Rosa",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/yara-rosa.jpeg"
+    imagem: "imagens/Yara-Rosa.jpeg"
 },
 {
     nome: "Yara Tous",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/yaratous.png"
+    imagem: "imagens/YaraTous.png"
 },
 {
     nome: "Yara Moi",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/yaramoi.jpg"
+    imagem: "imagens/YaraMoi.jpg"
 },
 {
     nome: "Yara Candy",
     marca: "Lattafa",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/yaracandy.png"
+    imagem: "imagens/YaraCandy.png"
 },
 {
     nome: "Amber Noir",
     marca: "Orientica",
     categoria: "Árabe Masculino",
     ml: "90 ml",
-    imagem: "imagens/amber-noir.webp"
+    imagem: "imagens/AMBER-NOIR.webp"
 },
 {
     nome: "Salvo",
     marca: "Maison Alhambra",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/salvo.webp"
+    imagem: "imagens/SALVO.webp"
 },
 {
     nome: "Perseus",
     marca: "Maison Alhambra",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/perseus.webp"
+    imagem: "imagens/PERSEUS.webp"
 },
 {
     nome: "Fada",
     marca: "Mawwal Arabia",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/fada.webp"
+    imagem: "imagens/Fada.webp"
 },
 {
     nome: "The Kingdom For Men",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/the-kingdom-for-men.webp"
+    imagem: "imagens/The-Kingdom-For-Men.webp"
 },
 {
     nome: "Imperia",
     marca: "Rayhaan",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/imperia.jpg"
+    imagem: "imagens/Imperia.jpg"
 },
 {
     nome: "Fresh Wave",
