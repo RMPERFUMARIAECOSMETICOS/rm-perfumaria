@@ -306,91 +306,91 @@ const produtos = [
     marca: "Rayhaan",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/fresh-wave.jpg"
+    imagem: "imagens/FRESH-WAVE.jpg"
 },
 {
     nome: "Club de Nuit Intense Man",
     marca: "Armaf",
     categoria: "Árabe Masculino",
     ml: "105 ml",
-    imagem: "imagens/club-de-nuit-intense-man.jpeg"
+    imagem: "imagens/CLUB-de-NUIT-INTENSE-MAN.jpeg"
 },
 {
     nome: "Dubai Nights Midnight",
     marca: "Armaf",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/dubai-nights-midnight.jpg"
+    imagem: "imagens/DUBAI-NIGHTS-MIDNIGHT.jpg"
 },
 {
     nome: "Hawas Ice For Him",
     marca: "Rasasi",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/hawas-ice-for-him.jpg"
+    imagem: "imagens/Hawas-Ice-for-Him.jpg"
 },
 {
     nome: "His Confession",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/his-confession.png"
+    imagem: "imagens/HIS-CONFESSION.png"
 },
 {
     nome: "Asad Bourbon",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/asad-bourbon.png"
+    imagem: "imagens/Asad-Bourbon.png"
 },
 {
     nome: "Asad",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/asad.webp"
+    imagem: "imagens/Asad.webp"
 },
 {
     nome: "Asad Zanzibar Blue",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/asad-zanzibar-blue.png"
+    imagem: "imagens/Asad-Zanzibar-Blue.png"
 },
 {
     nome: "Fakhar Black",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/fakhar-black.webp"
+    imagem: "imagens/Fakhar-Black.webp"
 },
 {
     nome: "Ansaam Silver",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/ansaam-silver.webp"
+    imagem: "imagens/Ansaam-Silver.webp"
 },
 {
     nome: "Pacific Aura",
     marca: "Rayhaan",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/pacific-aura.jpg"
+    imagem: "imagens/Pacific-Aura.jpg"
 },
 {
     nome: "Veneno Black",
     marca: "French Avenue",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/veneno-black.webp"
+    imagem: "imagens/Veneno-Black.webp"
 },
 {
     nome: "Turathi Electric",
     marca: "Afnan",
     categoria: "Árabe Masculino",
     ml: "90 ml",
-    imagem: "imagens/turathi-electric.webp"
+    imagem: "imagens/Turathi-Electric.webp"
 },
 {
     nome: "Nocturno Elixir",
@@ -404,14 +404,14 @@ const produtos = [
     marca: "Al Wataniah",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/kenz-al-malik.jpeg"
+    imagem: "imagens/Kenz-Al-Malik.jpeg"
 },
 {
     nome: "9PM Rebel",
     marca: "Afnan",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/9pm-rebel.webp"
+    imagem: "imagens/9PM-Rebel.webp"
 },
 {
     nome: "Pride Pisa",
@@ -425,35 +425,35 @@ const produtos = [
     marca: "Rayhaan",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/crimson.webp"
+    imagem: "imagens/Crimson.webp"
 },
 {
     nome: "Infinity Man",
     marca: "Armaf",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/infinity-man.webp"
+    imagem: "imagens/Infinity-Man.webp"
 },
 {
     nome: "Maahir Black Edition",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/maahir-black-edition.webp"
+    imagem: "imagens/Maahir-Black-edition.webp"
 },
 {
     nome: "Taurean De Combat",
     marca: "Lattafa",
     categoria: "Árabe Masculino",
     ml: "100 ml",
-    imagem: "imagens/taurean-de-combat.webp"
+    imagem: "imagens/TAUREAN-DE-COMBAT.webp"
 },
 {
     nome: "Island",
     marca: "Khadlaj",
     categoria: "Árabe Unissex",
     ml: "100 ml",
-    imagem: "imagens/island-khadlaj.webp"
+    imagem: "imagens/Island-khadlaj.webp"
 },
 {
     nome: "Malek",
@@ -712,7 +712,7 @@ const produtos = [
     marca: "",
     categoria: "Miniaturas",
     ml: "25 ml",
-    imagem: "imagens/A008-fakh-ouro.webp"
+    imagem: "imagens/A008-Fakh-Ouro.webp"
 },
 {
     nome: "A009 - Ametista",
