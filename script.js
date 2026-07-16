@@ -33,14 +33,14 @@ const produtos = [
         marca: "Armaf",
         categoria: "Árabe Feminino",
         ml: "105 ml",
-        imagem: "imagens/Club-de-Nuit-Imperiale.webp"
+        imagem: "imagens/club-de-nuit-imperiale.webp"
     },
     {
         nome: "Adine",
         marca: "Paris Corner",
         categoria: "Árabe Feminino",
         ml: "100 ml",
-        imagem: "imagens/adine-paris-corner.jpg"
+        imagem: "imagens/Adine-paris-corner.jpg"
     },
     {
         nome: "Vanilla Voyage",
@@ -68,21 +68,21 @@ const produtos = [
     marca: "Lattafa Pride",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/artisan-ethnique.jpg"
+    imagem: "imagens/Artisan-Ethnique.jpg"
 },
 {
     nome: "Shadi",
     marca: "Dar El Ward",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/shadi.webp"
+    imagem: "imagens/Shadi.webp"
 },
 {
     nome: "La Rouge Baroque Extreme",
     marca: "Maison Alhambra",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/la-rouge-baroque-extreme.png"
+    imagem: "imagens/La-Rouge-Baroque-Extreme.png"
 },
 {
     nome: "Najma",
