@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>RM Perfumaria</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<!-- ===========================
+     BANNER
+=========================== -->
+
+<section class="banner">
+
+    <img
+        src="imagens/banner-rm.png"
+        alt="RM Perfumaria">
+
+</section>
+
+<!-- ===========================
+     PESQUISA
+=========================== -->
+
+<section class="pesquisa">
+
+    <input
+        id="pesquisa"
+        type="text"
+        placeholder="Pesquisar...">
+        <button id="ordenarAZ">
+    A → Z
+</button>
+
+</section>
+
+<!-- ===========================
+     CONTADOR
+=========================== -->
+
+<section class="contador">
+
+    <h2>
+
+        <span class="texto-contador">Resultado:</span>
+
+        <span id="contador-produtos">
+
+            0
+
+        </span>
+
+    </h2>
+
+</section>
+
+<!-- ===========================
+     CATEGORIAS
+=========================== -->
+
+<section class="categorias">
+
+    <button data-filtro="Todos" class="ativo">
+        Todos
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Árabe Feminino">
+        Árabe Feminino
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Árabe Masculino">
+        Árabe Masculino
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Árabe Unissex">
+        Árabe Unissex
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Francês Feminino">
+        Francês Feminino
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Francês Masculino">
+        Francês Masculino
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Francês Unissex">
+        Francês Unissex
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Brand Collection">
+        Brand Collection
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Miniaturas">
+        Miniaturas
+        <span class="qtd"></span>
+    </button>
+
+    <button data-filtro="Outros">
+        Outros
+        <span class="qtd"></span>
+    </button>
+
+</section>
+
+<section class="catalogo" id="catalogo">
+
+</section>
+
+<!-- ========================= -->
+<!-- MODAL DA IMAGEM -->
+<!-- ========================= -->
+
+<div id="modalImagem" class="modal">
+
+    <div class="modal-conteudo">
+
+        <span class="fechar-modal">&times;</span>
+
+        <img id="modalFoto" src="" alt="Perfume">
+
+        <div class="modal-info">
+
+            <h2 id="modalNome"></h2>
+
+            <p id="modalMarca"></p>
+
+            <p id="modalCategoria"></p>
+
+            <p id="modalMl"></p>
+
+        </div>
+
+    </div>
+
+</div>
+<!-- ========================= -->
+<!-- CARRINHO FLUTUANTE -->
+<!-- ========================= -->
+
+<div id="carrinhoFlutuante" class="carrinho-flutuante">
+
+    <div class="icone-carrinho">
+
+        🛒
+
+    </div>
+
+    <div class="texto-carrinho">
+
+        <strong>Pedido</strong>
+
+        <small>
+
+            <span id="qtdPerfumes">0</span> perfumes
+
+            •
+
+            <span id="qtdUnidades">0</span> unidades
+
+        </small>
+
+    </div>
+
+</div>
+<!-- ========================= -->
+<!-- RESUMO DO PEDIDO -->
+<!-- ========================= -->
+
+<div id="modalPedido" class="modal-pedido">
+
+    <div class="pedido-conteudo">
+
+        <span id="fecharPedido" class="fechar-modal">&times;</span>
+
+        <h2>
+
+            Pedido RM Perfumaria
+
+        </h2>
+
+        <div id="listaPedido">
+
+        </div>
+
+        <div class="totais">
+
+            <p>
+
+                Perfumes diferentes:
+
+                <strong id="totalPerfumes">
+
+                    0
+
+                </strong>
+
+            </p>
+
+            <p>
+
+                Total de unidades:
+
+                <strong id="totalUnidades">
+
+                    0
+
+                </strong>
+
+            </p>
+
+        </div>
+
+        <div class="observacoes">
+
+            <label>
+
+                Observações
+
+            </label>
+
+            <textarea
+                id="observacoes"
+                placeholder="Escreva alguma observação para seu pedido..."></textarea>
+
+        </div>
+
+        <div class="botoesPedido">
+
+            <button id="copiarPedido">
+
+                📋 Copiar Pedido
+
+            </button>
+
+            <button id="limparPedido">
+
+                🗑 Limpar Pedido
+
+            </button>
+
+            <button id="enviarWhatsapp">
+
+                📲 Finalizar Pedido
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+<script src="js/script.js"></script>
+
+
+
+<!-- MODAL DOS ATENDENTES -->
+
+<div id="modal-atendentes">
+
+    <div class="caixa-atendentes">
+
+        <button id="fecharAtendentes">✕</button>
+
+        <h2>Escolha seu atendente</h2>
+
+        <div id="lista-atendentes"></div>
+
+    </div>
+
+</div>
+</body>
+
+</html>
