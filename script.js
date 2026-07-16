@@ -782,7 +782,7 @@ const produtos = [
     marca: "",
     categoria: "Miniaturas",
     ml: "25 ml",
-    imagem: "imagens/A020-spectro.webp"
+    imagem: "imagens/A020-Spectro.webp"
 },
 {
     nome: "A022 - Lembrança",
@@ -817,7 +817,7 @@ const produtos = [
     marca: "",
     categoria: "Miniaturas",
     ml: "25 ml",
-    imagem: "imagens/A027-iconico.webp"
+    imagem: "imagens/A027-Iconico.webp"
 },
 {
     nome: "A031 - O Reino",
@@ -915,7 +915,7 @@ const produtos = [
     marca: "Le Bonheur",
     categoria: "Francês Feminino",
     ml: "100 ml",
-    imagem: "imagens/nightly-moon.webp"
+    imagem: "imagens/Nightly-Moon.webp"
 },
 
 {
@@ -923,7 +923,7 @@ const produtos = [
     marca: "Le Bonheur",
     categoria: "Francês Feminino",
     ml: "100 ml",
-    imagem: "imagens/nightly-donna.webp"
+    imagem: "imagens/Nightly-Donna.webp"
 },
 
 {
@@ -931,7 +931,7 @@ const produtos = [
     marca: "Zakat",
     categoria: "Árabe Feminino",
     ml: "100 ml",
-    imagem: "imagens/dahlia.webp"
+    imagem: "imagens/Dahlia.webp"
 },
 
 {
@@ -939,7 +939,7 @@ const produtos = [
     marca: "Jacques Bogart",
     categoria: "Francês Masculino",
     ml: "100 ml",
-    imagem: "imagens/silver-scent-infinite-silver.webp"
+    imagem: "imagens/Silver-Scent-Infinite-Silver.webp"
 },
 
 {
@@ -947,14 +947,14 @@ const produtos = [
     marca: "Lattafa",
     categoria: "Árabe Unissex",
     ml: "100 ml",
-    imagem: "imagens/mishlah.webp"
+    imagem: "imagens/Mishlah.webp"
 },
 {
     nome: "La Panthère",
     marca: "Cartier",
     categoria: "Francês Feminino",
     ml: "100 ml",
-    imagem: "imagens/la-panthere.webp"
+    imagem: "imagens/La-Panthere.webp"
 },
 
 {
@@ -962,7 +962,7 @@ const produtos = [
     marca: "Prada",
     categoria: "Francês Feminino",
     ml: "80 ml",
-    imagem: "imagens/prada-candy.webp"
+    imagem: "imagens/Prada-candy.webp"
 },
 
 {
@@ -970,7 +970,7 @@ const produtos = [
     marca: "French Avenue",
     categoria: "Árabe Unissex",
     ml: "100 ml",
-    imagem: "imagens/naughty-dates.webp"
+    imagem: "imagens/Naughty-Dates.webp"
 },
 
 {
@@ -978,7 +978,7 @@ const produtos = [
     marca: "Tiffany & Co.",
     categoria: "Francês Feminino",
     ml: "50 ml",
-    imagem: "imagens/tiffany-love-for-her.webp"
+    imagem: "imagens/Tiffany-Love-For-Her.webp"
 },
 
 {
@@ -986,14 +986,14 @@ const produtos = [
     marca: "Tiffany & Co.",
     categoria: "Francês Feminino",
     ml: "75 ml",
-    imagem: "imagens/rose-gold-intense.webp"
+    imagem: "imagens/Rose-Gold-Intense.webp"
 },
 {
     nome: "Oud Tropicale",
     marca: "Nuancielo",
     categoria: "Outros",
     ml: "100 ml",
-    imagem: "imagens/oud-tropicale.webp"
+    imagem: "imagens/Oud-tropicale.webp"
 },
 
 {
@@ -1070,7 +1070,7 @@ const produtos = [
     marca: "Brand Collection",
     categoria: "Brand Collection",
     ml: "25 ml",
-    imagem: "imagens/ad29.webp"
+    imagem: "imagens/Ad29.webp"
 },
 {
     nome: "A021 Nuit Precieux",
@@ -1078,7 +1078,7 @@ const produtos = [
     marca: "Brand Collection",
     categoria: "Brand Collection",
     ml: "25 ml",
-    imagem: "imagens/a021.webp"
+    imagem: "imagens/A021.webp"
 },
 
 {
@@ -1324,7 +1324,7 @@ const produtos = [
     marca: "Avar Collection",
     categoria: "Avar Collection",
     ml: "30 ml",
-    imagem: "imagens/006-angelic-blue.png"
+    imagem: "imagens/006-Angelic-Blue.png"
 }
 
 ];
